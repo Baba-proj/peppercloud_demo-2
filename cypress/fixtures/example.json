@@ -1,0 +1,12 @@
+{
+  "baseURl": "demo.peppercloud.com",
+  "UserID": "qa-tester@peppercloud.io",
+  "Password": "Jana@123",
+  "Fname": "baba",
+  "Sname": "shaik",
+  "company": "ABBC",
+  "designation": "Tester",
+  "email": "Tester@mailinator.com",
+  "Mobile": "900000000",
+  "CustomName": "QA Board"
+}
