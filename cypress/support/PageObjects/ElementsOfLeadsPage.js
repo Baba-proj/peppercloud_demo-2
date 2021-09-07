@@ -1,4 +1,4 @@
-import cypress from "cypress";
+
 
 class ElementsOfLeadsPage {
     getLeadsTitle() {
